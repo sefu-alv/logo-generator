@@ -77,7 +77,7 @@ function init() {
             return;
         }
         const svgData = generateSVG(shapeChoice, answers);
-        svgFile("logo.svg", svgData);
+        svgFile("output/logo.svg", svgData);
       }
     });
 }

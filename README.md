@@ -4,6 +4,8 @@
 
 The SVG Logo Generator is a Node.js project that simplifies the process of creating simple logos using Node.js, Inquirer for user input, and Jest for testing.
 
+## Video Demonstration
+[Watch a video demonstration of SVG logo generator](https://drive.google.com/file/d/18qkdBEoVQarzSe1jX_G5ko1GfAWldiEM/view)
 ## Table of Contents
 
 - [Installation](#installation)
